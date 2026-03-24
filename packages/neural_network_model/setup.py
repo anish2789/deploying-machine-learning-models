@@ -11,9 +11,9 @@ from setuptools import find_packages, setup
 # Package meta-data.
 NAME = 'neural_network_model'
 DESCRIPTION = 'Train and deploy neural network model.'
-URL = 'your github project'
-EMAIL = 'your_email@email.com'
-AUTHOR = 'Your name'
+URL = 'https://github.com/trainindata/deploying-machine-learning-models'
+EMAIL = 'christopher.samiullah@protonmail.com'
+AUTHOR = 'ChristopherGS'
 REQUIRES_PYTHON = '>=3.6.0'
 
 
